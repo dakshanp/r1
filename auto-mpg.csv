@@ -1,0 +1,6 @@
+,mpg,cyclinder,displacement,hp,weight,acceleration,modelyear,origin,car_name
+0,18,4,300,130,3504,12,70,1,honda
+1,15,8,323,165,3645,15,71,1,swift
+2,18,8,318,160,3440,11,70,1,ford
+3,13,6,369,269,3365,25,36,1,lamburgini
+4,12,7,362,173,3362,32,23,1,tata
